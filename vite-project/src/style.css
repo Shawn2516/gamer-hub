@@ -2,3 +2,8 @@
   margin: 0;
   padding: 0;
 }
+
+/* implement dark mode */
+body {
+  background-color: #1b1b1b;
+}

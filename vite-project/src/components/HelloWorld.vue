@@ -37,4 +37,7 @@ const count = ref(0)
 .read-the-docs {
   color: #888;
 }
+text {
+  color: white;
+}
 </style>
